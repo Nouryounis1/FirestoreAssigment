@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822709875350",
+    "project_id": "fir-assigment-58a78",
+    "storage_bucket": "fir-assigment-58a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822709875350:android:42b46c750db4988f3348b7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822709875350-pa8nd726eq1temghshu397sejounqlrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZ7QXy-T7UE4YScbSOTbp3r6djrICdkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822709875350-pa8nd726eq1temghshu397sejounqlrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
